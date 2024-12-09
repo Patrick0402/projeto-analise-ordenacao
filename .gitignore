@@ -1,0 +1,11 @@
+# Ignorar todos os arquivos .txt na pasta data
+data/*.txt
+
+# Ignorar todos os arquivos .class na pasta data
+data/*.class
+
+# Ignorar todos os arquivos .txt em qualquer diretório
+*.txt
+
+# Ignorar todos os arquivos .class em qualquer diretório
+*.class
